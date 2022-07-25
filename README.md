@@ -7,7 +7,6 @@
 
 - Front-end
 - Hardware
-- Editoração Eletônica
 
 <h2>🌱 Sou formado em:</h2>
 
@@ -15,6 +14,7 @@
 - Cidadania
 - Tecnico Bancário
 - Administração Financeira
+- Editoração Eletrônica
 
   ##
 
